@@ -1,0 +1,16 @@
+{
+  "name": "cage-cash-club",
+  "version": "1.0.0",
+  "description": "UFC Betting Picks - Cage Cash Club",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "author": "CageCash",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
